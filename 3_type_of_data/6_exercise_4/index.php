@@ -11,3 +11,4 @@ function printIfAreFloat($number)
 printIfAreFloat(5);
 printIfAreFloat(5.22);
 printIfAreFloat(12);
+printIfAreFloat(-23.3);
